@@ -3,7 +3,7 @@ Machine learning models (SVM, k-NN, Decision Trees) to predict traffic accident 
 
 # Predicting Traffic Accident Severity in Catalonia (2010–2020)
 
-[English](#english) | [Français](#français) | [Català](#català) | [Español](#español)
+[English](#english) | [Català](#català) | [Français](#français) | [Español](#español)
 
 ---
 
