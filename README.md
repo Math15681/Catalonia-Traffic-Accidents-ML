@@ -3,7 +3,7 @@ Machine learning models (SVM, k-NN, Decision Trees) to predict traffic accident 
 
 # Predicting Traffic Accident Severity in Catalonia (2010–2020)
 
-[English](#english) | [Català](#català) | [Español](#español)
+[English](#english) | [Français](#français) | [Català](#català) | [Español](#español)
 
 ---
 
@@ -53,6 +53,31 @@ Es van implementar, optimitzar i avaluar diversos algorismes d'aprenentatge supe
 ### Tecnologies
 * **Llenguatge:** Python
 * **Llibreries:** Scikit-Learn, Pandas, NumPy, Matplotlib, Seaborn
+
+---
+
+<a name="français"></a>
+## Français
+
+Ce projet évalue et compare des modèles d'apprentissage automatique supervisé pour prédire la gravité des accidents de la route en Catalogne à l'aide des données ouvertes du Servei Català de Trànsit.
+
+### Aperçu du Projet
+* **Objectif :** Prédire une variable cible binaire (`Morts_Binaria`) indiquant la sévérité de l'accident à partir de 9 caractéristiques sélectionnées, incluant le type de route, les limitations de vitesse, la localisation géographique et des facteurs temporels.
+* **Source des Données :** Registres historiques des accidents de la circulation en Catalogne (2010–2020).
+
+### Méthodologie et Modèles
+Plusieurs algorithmes d'apprentissage supervisé ont été implémentés, optimisés et évalués :
+* **Machines à Vecteurs de Support (SVM) :** Testées avec des noyaux linéaire, polynomial et radial (RBF).
+* **k plus proches voisins (k-NN) :** Évalués avec différentes métriques de distance et de nombre de voisins.
+* **Arbres de Décision :** Optimisés selon les critères d'impureté de Gini et du Gain d'Information (Entropie).
+
+### Résultats Clés
+* **Meilleur Modèle :** L'**Arbre de Décision** (avec le critère Gini et une profondeur maximale de 4) a obtenu les meilleures performances globales, atteignant un ROC-AUC de **0,6329** et un coefficient de corrélation de Matthews (MCC) de **0,1896**, gérant mieux le déséquilibre des classes que des modèles comme le k-NN.
+* **Informations Prédictives :** L'analyse de l'importance des variables a révélé que la distinction entre les routes urbaines et interurbaines (servant de nœud racine), ainsi que les limitations de vitesse, sont les facteurs les plus déterminants de la fatalité d'un accident.
+
+### Stack Technique
+* **Langage :** Python
+* **Bibliothèques :** Scikit-Learn, Pandas, NumPy, Matplotlib, Seaborn
 
 ---
 
