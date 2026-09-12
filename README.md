@@ -109,6 +109,6 @@ Se implementaron, optimizaron y evaluaron diversos algoritmos de aprendizaje sup
 
 ## References / Referències / Reférències / Referencias
 
-* [1] Kaggle. *Road Traffic Injuries/Deaths Catalonia 2010-20*. Available at: [Kaggle Dataset](https://www.kaggle.com/datasets/jordigarciacastillon/road-traffic-injuries-deaths-catalonia-201020)[cite: 1]
+* [1] Kaggle. *Road Traffic Injuries/Deaths Catalonia 2010-20*. Available at: [Kaggle Dataset](https://www.kaggle.com/datasets/jordigarciacastillon/road-traffic-injuries-deaths-catalonia-201020)
 * [2] Generalitat de Catalunya. *Accidents de trànsit amb morts o ferits greus a Catalunya*. Servei Català de Trànsit. Available at: [Catalonia Open Data Portal](https://analisi.transparenciacatalunya.cat/Transport/Accidents-de-tr-nsit-amb-morts-o-ferits-greus-a-Ca/rmgc-ncp)
 
