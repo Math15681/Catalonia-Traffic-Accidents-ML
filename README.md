@@ -10,7 +10,7 @@ Machine learning models (SVM, k-NN, Decision Trees) to predict traffic accident 
 <a name="english"></a>
 ## English
 
-This project evaluates and compares supervised machine learning models to predict traffic accident fatalities in Catalonia using open data provided by the Servei Català de Trànsit.
+This project was carried out as part of the **Machine Learning** (*Aprenentatge Automàtic*) course during my Erasmus exchange program at the **Universitat Autònoma de Barcelona (UAB)**. It evaluates and compares supervised machine learning models to predict traffic accident fatalities in Catalonia using open data provided by the Servei Català de Trànsit.
 
 ### Project Overview
 * **Objective:** Predict a binary target variable (`Morts_Binaria`) indicating accident severity based on 9 selected features, including road type, speed limits, regional location, and temporal factors.
@@ -35,7 +35,7 @@ Several supervised learning algorithms were implemented, hyperparameter-tuned, a
 <a name="català"></a>
 ## Català
 
-Aquest projecte avalua i compara models d'aprenentatge automàtic supervisat per predir la fatalitat d'accidents de trànsit a Catalunya utilitzant dades obertes del Servei Català de Trànsit.
+Aquest projecte es va dur a terme en el marc de l'assignatura **Aprenentatge Automàtic** durant el meu intercanvi Erasmus a la **Universitat Autònoma de Barcelona (UAB)**. Avalua i compara models d'aprenentatge automàtic supervisat per predir la fatalitat d'accidents de trànsit a Catalunya utilitzant dades obertes del Servei Català de Trànsit.
 
 ### Visió General del Projecte
 * **Objectiu:** Predir una variable objectiu binària (`Morts_Binaria`) que indica la gravetat de l'accident a partir de 9 variables seleccionades, incloent-hi el tipus de via, els límits de velocitat, la comarca i factors temporals.
@@ -59,7 +59,7 @@ Es van implementar, optimitzar i avaluar diversos algorismes d'aprenentatge supe
 <a name="français"></a>
 ## Français
 
-Ce projet évalue et compare des modèles d'apprentissage automatique supervisé pour prédire la gravité des accidents de la route en Catalogne à l'aide des données ouvertes du Servei Català de Trànsit.
+Ce projet a été réalisé dans le cadre du cours d'**Apprentissage Automatique** (*Aprenentatge Automàtic*) lors de mon échange Erasmus à la **Universitat Autònoma de Barcelona (UAB)**. Il évalue et compare des modèles d'apprentissage automatique supervisé pour prédire la gravité des accidents de la route en Catalogne à l'aide des données ouvertes du Servei Català de Trànsit.
 
 ### Aperçu du Projet
 * **Objectif :** Prédire une variable cible binaire (`Morts_Binaria`) indiquant la sévérité de l'accident à partir de 9 caractéristiques sélectionnées, incluant le type de route, les limitations de vitesse, la localisation géographique et des facteurs temporels.
@@ -84,7 +84,7 @@ Plusieurs algorithmes d'apprentissage supervisé ont été implémentés, optimi
 <a name="español"></a>
 ## Español
 
-Este proyecto evalúa y compara modelos de aprendizaje automático supervisado para predecir la fatalidad de accidentes de tráfico en Cataluña utilizando datos abiertos del Servei Català de Trànsit.
+Este proyecto se llevó a cabo en el marco de la asignatura de **Aprendizaje Automático** (*Aprenentatge Automàtic*) durante mi estancia Erasmus en la **Universitat Autònoma de Barcelona (UAB)**. Evalúa y compara modelos de aprendizaje automático supervisado para predecir la fatalidad de accidentes de tráfico en Cataluña utilizando datos abiertos del Servei Català de Trànsit.
 
 ### Resumen del Proyecto
 * **Objetivo:** Predecir una variable objetivo binaria (`Morts_Binaria`) que indica la gravedad del accidente basándose en 9 variables seleccionadas, incluyendo tipo de vía, límites de velocidad, comarca y factores temporales.
