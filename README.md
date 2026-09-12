@@ -59,7 +59,7 @@ Es van implementar, optimitzar i avaluar diversos algorismes d'aprenentatge supe
 <a name="español"></a>
 ## Español
 
-Este proyecto evalúa y compara modelos de aprendizaje automático supervisado para predecir la fatalidad de accidentes de tráfico en Cataluña utilizando datos abiertos del Servei Català de Trànsit[cite: 3].
+Este proyecto evalúa y compara modelos de aprendizaje automático supervisado para predecir la fatalidad de accidentes de tráfico en Cataluña utilizando datos abiertos del Servei Català de Trànsit.
 
 ### Resumen del Proyecto
 * **Objetivo:** Predecir una variable objetivo binaria (`Morts_Binaria`) que indica la gravedad del accidente basándose en 9 variables seleccionadas, incluyendo tipo de vía, límites de velocidad, comarca y factores temporales.
